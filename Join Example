@@ -1,5 +1,4 @@
-# This SQL query identifies the top 10 cities that fall within the top 10 countries 
-  in terms of customer numbers
+# This SQL query identifies the top 10 cities that fall within the top 10 countries in terms of customer numbers
 
 SELECT country, city,
 COUNT(customer_id) AS customer_count
