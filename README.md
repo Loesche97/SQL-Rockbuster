@@ -4,6 +4,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 
 #Key Questions
+
 ● Which movies contributed the most/least to revenue gain?
 ● What was the average rental duration for all videos?
 ● Which countries are Rockbuster customers based in?
